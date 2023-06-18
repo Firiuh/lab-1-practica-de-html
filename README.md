@@ -1,1 +1,2 @@
-# practicas-de-html
+# INDEX BASICO DE HTML
+incluye estructura de html 
