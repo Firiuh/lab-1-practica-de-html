@@ -1,2 +1,2 @@
-# INDEX BASICO DE HTML
+# HTML BASICO
 incluye estructura de html 
